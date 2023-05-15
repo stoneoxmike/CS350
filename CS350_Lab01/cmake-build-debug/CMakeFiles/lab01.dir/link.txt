@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++11 -Wall -g   CMakeFiles/lab01.dir/Histogram.cpp.o CMakeFiles/lab01.dir/main.cpp.o  -o ../lab01 

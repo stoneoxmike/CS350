@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/CS350_Lab03/Histogram.cpp
+iostream
+-
+Histogram.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/CS350_Lab03/Histogram.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/CS350_Lab03/Histogram.h
+

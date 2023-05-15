@@ -1,0 +1,3 @@
+/mnt/c/Users/stone/OneDrive/Documents/CS350/CS350_Lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/stone/OneDrive/Documents/CS350/CS350_Lab01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/stone/OneDrive/Documents/CS350/CS350_Lab01/cmake-build-debug/CMakeFiles/lab01.dir
