@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++11 -Wall -g   CMakeFiles/BST.dir/BST.cpp.o CMakeFiles/BST.dir/PrettyPrinter.cpp.o CMakeFiles/BST.dir/tests.cpp.o  -o ../BST  ../libBST_Linux.a 

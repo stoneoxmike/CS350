@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam01/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam01/Node.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam01/Queue.cpp
+Queue.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam01/Queue.h
+Flags.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam01/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam01/Queue.h
+cassert
+-
+Node.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam01/Node.h
+
