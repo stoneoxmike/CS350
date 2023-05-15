@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam04/BinHeap.cpp
+BinHeap.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam04/BinHeap.h
+Flags.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam04/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam04/BinHeap.h
+iostream
+-
+sstream
+-
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/exams/CS350_Exam04/Flags.h
+
