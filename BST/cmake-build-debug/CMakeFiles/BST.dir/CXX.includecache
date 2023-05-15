@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/BST/BST.cpp
+BST.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/BST/BST.h
+Flags.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/BST/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/BST/BST.h
+iostream
+-
+Node.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/BST/Node.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/BST/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/BST/Node.h
+

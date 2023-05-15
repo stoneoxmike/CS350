@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/HashTable/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/HashTable/HashTable.cpp
+HashTable.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/HashTable/HashTable.h
+Flags.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/HashTable/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/HashTable/HashTable.h
+string
+-
+iostream
+-
+sstream
+-
+Node.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/HashTable/Node.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/HashTable/Node.h
+

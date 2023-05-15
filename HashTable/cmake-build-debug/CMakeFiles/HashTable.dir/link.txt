@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++11 -Wall -D_GLIBCXX_USE_CXX11_ABI=0 -g   CMakeFiles/HashTable.dir/HashTable.cpp.o CMakeFiles/HashTable.dir/tests.cpp.o  -o ../HashTable  ../libHashTable_Linux.a 
