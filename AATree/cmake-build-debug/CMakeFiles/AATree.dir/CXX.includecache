@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/AATree/AATree.cpp
+AATree.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/AATree/AATree.h
+Flags.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/AATree/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/AATree/AATree.h
+iostream
+-
+Node.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/AATree/Node.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/AATree/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/AATree/Node.h
+
