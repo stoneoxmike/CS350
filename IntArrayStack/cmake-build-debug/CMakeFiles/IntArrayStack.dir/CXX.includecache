@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/IntArrayStack/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/IntArrayStack/IntArrayStack.cpp
+IntArrayStack.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/IntArrayStack/IntArrayStack.h
+Flags.h
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/IntArrayStack/Flags.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS350/assignments/IntArrayStack/IntArrayStack.h
+iostream
+-
+

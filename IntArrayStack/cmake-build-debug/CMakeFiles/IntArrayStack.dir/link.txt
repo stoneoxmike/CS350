@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++11 -Wall -g   CMakeFiles/IntArrayStack.dir/IntArrayStack.cpp.o CMakeFiles/IntArrayStack.dir/tests.cpp.o  -o ../IntArrayStack  ../libIntArrayStack_Linux.a 
